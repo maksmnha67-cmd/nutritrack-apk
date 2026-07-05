@@ -1,0 +1,9 @@
+{
+  "appId": "com.nutritrack.app",
+  "appName": "NutriTrack",
+  "webDir": "www",
+  "server": {
+    "url": "https://0d5990b4-316d-4755-a92d-7dfcf6dce45c-00-1jyhldqhcvi2c.kirk.replit.dev/",
+    "cleartext": true
+  }
+}
