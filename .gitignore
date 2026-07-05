@@ -4,3 +4,4 @@ android/app/build/
 android/.gradle/
 node_modules/@capacitor/android/capacitor/build/
 *.apk
+android/local.properties
